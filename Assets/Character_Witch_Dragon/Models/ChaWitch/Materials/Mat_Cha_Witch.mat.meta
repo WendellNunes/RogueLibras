@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e00e3930adc31e14fbf373af3aafa850
+timeCreated: 1447485374
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49955
+  packageName: Animated Witch and Dragon Monster
+  packageVersion: 1.1
+  assetPath: Assets/Character_Witch_Dragon/Models/ChaWitch/Materials/Mat_Cha_Witch.mat
+  uploadId: 91248

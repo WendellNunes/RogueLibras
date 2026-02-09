@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 2a282e195ca1a0f41a17fd1716bb90e7
+timeCreated: 1447497651
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49955
+  packageName: Animated Witch and Dragon Monster
+  packageVersion: 1.1
+  assetPath: Assets/Character_Witch_Dragon/Models/CommonMaterials/Mat_Shadow.mat
+  uploadId: 91248

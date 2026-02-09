@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Dragon" size="1.000000 1.275591" />
+    <ImageTarget name="Minotauros" size="1.000000 1.276025" />
+    <ImageTarget name="Globin" size="1.000000 1.276025" />
+    <ImageTarget name="Orc" size="1.000000 1.275591" />
+    <ImageTarget name="MultiCoins" size="1.000000 1.312303" />
+    <ImageTarget name="Coins" size="1.000000 1.311811" />
+    <ImageTarget name="Coin" size="1.000000 1.311811" />
+    <ImageTarget name="Escape" size="1.000000 1.351735" />
+    <ImageTarget name="Thunder" size="1.000000 1.275591" />
+    <ImageTarget name="Rock" size="1.000000 1.198425" />
+    <ImageTarget name="Fire" size="1.000000 1.291339" />
+    <ImageTarget name="Water" size="1.000000 1.278740" />
+    <ImageTarget name="Bread" size="1.000000 1.288189" />
+    <ImageTarget name="Aplee" size="1.000000 1.261417" />
+  </Tracking>
+</QCARConfig>

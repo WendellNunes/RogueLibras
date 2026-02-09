@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 639b93d63b648ea4c9a496cf690f7570
+timeCreated: 1447496074
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49955
+  packageName: Animated Witch and Dragon Monster
+  packageVersion: 1.1
+  assetPath: Assets/Character_Witch_Dragon/Models/ChaDragon/Motions/ChaDragon.controller
+  uploadId: 91248

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d1a67fe3f9f53264fa240cdce010e352
+timeCreated: 1447494252
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 49955
+  packageName: Animated Witch and Dragon Monster
+  packageVersion: 1.1
+  assetPath: Assets/Character_Witch_Dragon/Models/ChaWitch/Motions/ChaWitch.controller
+  uploadId: 91248
